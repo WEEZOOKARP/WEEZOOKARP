@@ -1,7 +1,7 @@
 # 💫 About Me:
-🔭 currently working on<br>Gameservers and scripts.
+🔭 currently working on<br>Gameservers and scripts. Also currently working towards BCIS.
 
-🤝 currently working with<br>SurgeRP.
+🤝 currently working with<br>SurgeRP and XPRESS RP.
 
 
 ## 🌐 Socials:
