@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 currently working on<br>Gameservers and scripts. Also currently working towards BCIS.<br><br>🤝 currently working with<br>XPRESS RP.
+🔭 currently working on<br>Gameservers and scripts. Also currently working towards BCIS.<br><br>🤝 currently working with<br>XPRESS RP & MidasGroup.
 
 
 # 💻 Tech Stack:
